@@ -1,3 +1,16 @@
+/*
+*
+*  Project title: Dunn irc bot
+*  Author: Josh Manders aka 'KillSwitch', aka K1llswitch
+*  Contributors: Conrad Pankoff aka 'deoxxa'
+*  Powered by: Node.js
+*  Version: 1.0
+*  Contact: Information available at:
+*  		website: https://github.com/killswitch/dunn
+*		irc channel: #webtech
+*
+*/
+
 var irc = require('irc');
 var Parse = require('./Parse.js');
 
