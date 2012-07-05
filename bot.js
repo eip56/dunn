@@ -1,7 +1,7 @@
 /*
 *
 *  Project title: Dunn irc bot
-*  Author: Josh Manders aka 'KillSwitch', aka K1llswitch
+*  Author: Josh Manders aka 'Killswitch'
 *  Contributors: Conrad Pankoff aka 'deoxxa'
 *  Powered by: Node.js
 *  Version: 1.0
